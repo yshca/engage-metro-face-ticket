@@ -11,12 +11,20 @@ cd engage-metro-face-ticket/frontend_user
 
 npm i
 
-npm run dev
+npm run start
 
 
 Running the frontend_admin
 
 cd engage-metro-face-ticket/frontend_admin 
+
+npm i
+
+npm run start
+
+Running the frontend_admin
+
+cd engage-metro-face-ticket/backend 
 
 npm i
 
